@@ -1,6 +1,6 @@
 # FightGame
  
-Mini web based fight game
+Mini web based fight game\\
 Control:
     Player 1: 
         left: a
